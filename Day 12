@@ -1,0 +1,15 @@
+class Solution:
+    def plusOne(self, digits: List[int]) -> List[int]:
+        n = len(digits)
+
+        for i in range(n-1, -1, -1):
+            #Case A: if digit at index 0 is < 9
+            if digits[i] < 9:
+                digits[i] += 1
+                return digits
+
+            #Case B: if digit at index 0 is > 9. Make it 0 and carry 1 to the next neighbour on the left
+            digits[i] = 0
+
+        #Edge case: When there are all 9's
+        return [1] + digits
