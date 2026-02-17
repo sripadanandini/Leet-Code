@@ -1,0 +1,24 @@
+class Solution:
+    def addBinary(self, a: str, b: str) -> str:
+        res = []
+        carry = 0
+        i, j = len(a)-1, len(b)-1 #pointers starting at the end of each string
+
+        while i>=0 or j>=0 or carry:
+            #calculate sum based on extracted digits
+            digit_a = int(a[i]) if i>=0 else 0
+            digit_b = int(b[j]) if j>=0 else 0
+            
+            #get total
+            total = digit_a + digit_b + carry
+
+            res.append(str(total%2))
+
+            carry = total // 2
+
+            #move pointers to the left after each calculation
+            i-=1 
+            j-=1
+
+        return "".join(res[::-1]) #because we calculate everything in reverse order, we write this to place everything back in order
+        
