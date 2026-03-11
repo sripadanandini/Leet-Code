@@ -35,3 +35,5 @@ Day 30: Single Number
 Day 31: Linked List Cycle 
 Day 32: Binary Tree Preorder Traversal 
 Day 33: Binary Tree Postorder Traversal 
+Day 34: Intersection of Two Linked Lists. & Started SQL Leet Coding today, Day 1 of SQL: Combine Two Tables.
+Day 35: Excel Sheet Column Title. & Day 2 of SQL: Employees Earning More Than Their Managers.
