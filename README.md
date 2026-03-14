@@ -39,3 +39,4 @@ Day 34: Intersection of Two Linked Lists. Started SQL Leet Coding today, Day 1 o
 Day 35: Excel Sheet Column Title. & Day 2 of SQL: Employees Earning More Than Their Managers.
 Day 36: Majority Element. & Day 3 of SQL: Duplicate Emails.
 Day 37: Excel Sheet Column Number. & Day 4 of SQL: Customers Who Never Order.
+Day 38 of Leet Coding - Add Two Numbers (D1 of Medium Level Difficulty problems). & Day 5 of SQL: Delete Duplicate Emails.
