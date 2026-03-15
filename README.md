@@ -40,3 +40,4 @@ Day 35: Excel Sheet Column Title. & Day 2 of SQL: Employees Earning More Than Th
 Day 36: Majority Element. & Day 3 of SQL: Duplicate Emails.
 Day 37: Excel Sheet Column Number. & Day 4 of SQL: Customers Who Never Order.
 Day 38 of Leet Coding - Add Two Numbers (D1 of Medium Level Difficulty problems). & Day 5 of SQL: Delete Duplicate Emails.
+Day 39 of Leet Coding - Longest Substring Without Repeating Characters. & Day 6 of SQL: Rising Temperature.
