@@ -42,3 +42,4 @@ Day 37: Excel Sheet Column Number. & Day 4 of SQL: Customers Who Never Order.
 Day 38 of Leet Coding - Add Two Numbers (D1 of Medium Level Difficulty problems). & Day 5 of SQL: Delete Duplicate Emails.
 Day 39 of Leet Coding - Longest Substring Without Repeating Characters. & Day 6 of SQL: Rising Temperature.
 Day 40 of Leet Coding - Longest Palindrome Substring. & Dat 7 of SQL: Game Play Analysis I.
+Day 41 of Leet Coding - ZigZag Conversion. & Day 8 of SQL: Employee Bonus.
