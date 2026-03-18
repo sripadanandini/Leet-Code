@@ -43,3 +43,4 @@ Day 38 of Leet Coding - Add Two Numbers (D1 of Medium Level Difficulty problems)
 Day 39 of Leet Coding - Longest Substring Without Repeating Characters. & Day 6 of SQL: Rising Temperature.
 Day 40 of Leet Coding - Longest Palindrome Substring. & Dat 7 of SQL: Game Play Analysis I.
 Day 41 of Leet Coding - ZigZag Conversion. & Day 8 of SQL: Employee Bonus.
+Day 42 of Leet Coding - Reverse Integer. & Day 9 of SQL: Find Customer Referee.
